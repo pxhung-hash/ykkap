@@ -9,7 +9,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "./ui/dropdown-menu";
-import logoImage from "https://ykkap.vn/";
+
 
 interface HeaderProps {
   onLogout: () => void;
